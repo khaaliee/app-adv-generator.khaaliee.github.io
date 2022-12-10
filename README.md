@@ -28,14 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./images/mobile-screenshot.png)
-![Desktop](./images/desktop-screenshot.png)
+![](/images/mobile-screenshot.png)
+![](/images/desktop-screenshot.png)
 
 ### Links
 
 - Solution URL: [Frontendmentor](https://your-solution-url.com)
-- Live Site URL: [Github Pages](
-app-adv-generator.khaaliee.github.io )
+- Live Site URL: [Github Pages](app-adv-generator.khaaliee.github.io)
 
 ## My process
 
@@ -49,9 +48,9 @@ app-adv-generator.khaaliee.github.io )
 
 ### Useful resources
 
-- [MDN Mozilla Docs](https://developer.mozilla.org/en-US/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [MDN Mozilla Docs](https://developer.mozilla.org/en-US/)
 - [Box Shadow Generator](https://cssgenerator.pl/box-shadow-generator/)
-- [Flexbox Froggy Game] (https://flexboxfroggy.com/)
+- [Flexbox Froggy Game](https://flexboxfroggy.com/)
 
 ## Author
 
