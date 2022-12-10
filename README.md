@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://your-solution-url.com)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/advice-generator-app-gwKRfEUZY7)
 - Live Site URL: [Github Pages](app-adv-generator.khaaliee.github.io)
 
 ## My process
