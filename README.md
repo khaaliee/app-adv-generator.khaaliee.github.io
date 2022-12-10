@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](advice-generator-app-main/images/mobile-screenshot.png)
-![](advice-generator-app-main/images/desktop-screenshot.png)
+![](./images/mobile-screenshot.png)
+![](./images/desktop-screenshot.png)
 
 ### Links
 
